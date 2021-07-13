@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+<lang=”eng-us”>
+<title>Shakespeare</title>
+<meta charset = "UTF-8">
+<meta name= "description"
+content="Shakespeare his relevance past, present and future">
+<meta name="keywords"
+content="shakespeare",playwright, jacobean, elizabethan, literature">
+ <a href="style.css">
+<meta>
+<head>
+<h1>Shakespeare Future Influence</h1>
+<div>
+<video src=”https://www.youtube.com/watch?v=S0qao2xINsE”
+Width=”400” height=”300”
+Preload> 
+<video src=”https://www.youtube.com/watch?v=4VBsi0VxiLg”
+Width=”400” height=”300”
+Preload>
+</div>
+<div>
+<h3>Shakespeare Influences on Literature< and Film</h3>
+<li>Shakespeare in Love</li>
+<li>Romeo and Juliet 1968 and 199</li>
+<li>10 Things I Hate About You</li>
+<li>Othello</li>
+<li>West Side Story</li>
+<li>She's The Man</li>
+<li>The Lion King</li>
+
+</div>
+<div>
+<h3>Shakespeare Modern References</h3>
+</div>
+<div>
+<p>He can feel Death in the room, hovering in the shadows, over there beside the door, head averted, but watching all the same, always watching. It is waiting, biding its time. Hamnet p.199</p>
+</div>
+<div>
+<img src="https://www.flickr.com/photos/193335561@N03/51306953480/in/dateposted-public/">
+</div>
+<div>
+<img src=”https://www.flickr.com/photos/193335561@N03/51299314540/in/dateposted-public/”>
+</div>
+<div>
+<p>To be or not to be that is the question,
+Whether it is nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles,
+And by opposing end them? To die,to sleep-
+Hamlet Act III Scene I </p>
+</div>
+
+</p>
+</head>
+<body>
+</html>

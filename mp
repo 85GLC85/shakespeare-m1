@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+<title>Shakespeare</title>
+<meta charset = "UTF-8">
+<meta name= "description"
+content="Shakespeare his relevance past, present and future">
+<meta name="keywords"
+content="shakespeare",playwright, jacobean, elizabethan, literature">
+ <a href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jomhuria&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+<h1><strong>SHAKESPEARE</strong></h1>
+<p>One William Shakespeare born c.1564 a playwright with drama to his name, poet by nature multiple sonnets under his nom de plume,as relevant now as in the 16th century? That's for you to decide...</p>
+<div class="mydiv1">
+<img src alt="https://www.flickr.com/photos/193335561@N03/51297536107/in/dateposted-public/">
+<img src alt="hhttps://www.flickr.com/photos/193335561@N03/51298444758/in/dateposted-public/">
+</div>
+</section>
+<section>
+<div class="mydiv2">
+<h2>Shakespeare Past</h2>
+<h2>Shakespeare Present</h2>
+<h2>Shakespeare Future</h2>
+</div>
+</section>
+<section><p id="quote1">Two households both alike in dignity...<em>Romeo and Juliet</em> </p> 
+<p id="quote2">With love's light wings did I o'-er perch these walls,<em>Romeo and Juliet</em></p>
+<p id="quote3">My dreams presage some joyful news at hand...<em>Romeo and Juliet</em></p>
+</section>
+<section>
+<h3>Links</h3>
+<a href="https://www.shakespeare.org.uk/">Shakespeare Birthplace Trust</a>
+<h3>Sign up to our newsletter</h3>
+<span title="Click here to sign up for our newsletter"></span>
+<form action="https://"www.example.org/subscribe>
+<p>Enter e-mail address to sign up to our monthly newsletter</p>
+<p>First Name</p>
+<label id="name-field" text="First name"/>
+<input type="text" name="First name" maxlength="30" method="post">
+<p>Surname</p>
+<label id="name-field" text="Surname" / >
+<input type="text" name="surname" maxlength="30" method="post">
+<p>E-mail</p>
+<label id="email-field" text="Email address"/> 
+<input type="email" name="email" maxlength="50" method="post">
+<input type="submit" name="Register" value="Register">
+<input type="image src"https://www.flickr.com/photos/193335561@N03/51298999259/in/dateposted-public/"
+width="100" height="100"/>
+
+</form>
+
+<h3>Social Media</h3>
+<a href="http://www.instagram.com>Instagram></a>
+</section>
+<body>
+</html>
