@@ -1,0 +1,69 @@
+h1 {font-family:Jomhuria; cursive;
+    font-size: 180px;
+    color: #383b3e
+}
+
+p {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 25px;
+    color: #383b3e;
+}
+
+h2 {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px;
+    color: #383b3e;
+}
+
+h3{
+    font-family: 'Jomhuria', cursive;
+    font-size: 50px;
+    color: #383b3e;
+}
+
+#quote1 {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 10px;
+    color: #383b3e;
+}
+
+#quote2 {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 10px;
+    color: #383b3e;
+}
+
+#quote3 {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 10px;
+    color: #383b3e;
+}
+
+body {
+    background-color: :#e2dcba;
+}
+
+.mydiv1 {
+border: 1px;
+text-align: center;
+body {
+    background-color: :#e2dcba;
+}
+}
+
+.mydiv2 {
+ border: 1px; 
+ text-align: center;  
+}
+
+a:hover {
+    background-color: #F5F5F5;
+}
+
+.mydiv1a {
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px
+    text-align:center;
+}
