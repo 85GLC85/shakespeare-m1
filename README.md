@@ -11,3 +11,7 @@ Four pages:-
 -	Three linked pages entitled past present future 
 Main Page (Landing Page)
 Wireframe
+
+# deployment
+1. go to the github pages for repository 
+![deployment step1](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
