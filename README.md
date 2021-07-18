@@ -15,3 +15,7 @@ Wireframe
 # deployment
 1. go to the github pages for repository 
 ![deployment step1](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
+2.go to the github pages for repository 
+![deployment step2](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step2.png)
+3.o to the github pages for repository 
+![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
