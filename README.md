@@ -14,6 +14,22 @@ Main Page (Landing Page)
 Wireframe
 
 Design Choices
+
+Target Audience
+
+Those who have never encountered Shakespeare before
+Those who have a fixed idea about Shakespeare and works as historical and not reinterpreted in the modern day
+Those who have a brief prior introduction to Shakespeare and will recognise the most oft-repeated quotes
+Age range demographic post further Education up to retirement
+
+Purpose 
+
+To educate people about Shakespeare and how his works are still relevant in the modern era, to place plays in historical context, to give a brief overview of literary theory. To provide a brief introduction to his works.  
+
+Color 
+
+Background Mainpage Colour Choice Hex code #e2dcba 
+
 Tea stained hex code to replicate a feeling of a Shakespearean manuscript/folio something fragile – in the sense of the Latin root brittle or broken -and old in the sense of seeped in history.  Also known as Valspar paint tea stain:
 
 The hexadecimal color code #e2dcba is a light shade of yellow. In the RGB color model #e2dcba is comprised of 88.63% red, 86.27% green and 72.94% blue.
@@ -23,6 +39,7 @@ https://encycolorpedia.com/e2dcba#:~:text=The%20hexadecimal%20color%20code%20%23
 Then moving throughout the pages to something gradually brighter, cleaner, crisper, more modern with sharper lines and edges and a more concise script. Fewer words on the page more imagery, more video more interaction. There will be a strong contrast between initial mainpage and the final future page. 
 
 Font colour
+
  on the first- main – page is ink quill black also known as Benjamin Moore Black Ink – for manuscripts would have been written with a feather quill pen and ink. 
 
  The hexadecimal color code #383b3e is a dark shade of cyan-blue. In the RGB color model #383b3e is comprised of 21.96% red, 23.14% green and 24.31% blue. In the HSL color space #383b3e has a hue of 210° (degrees), 5% saturation and 23% lightness. This color has an approximate wavelength of 480.84 nm.
@@ -34,6 +51,14 @@ Font type
 Using scrolling cursive type to replicate a handwritten style of script for that 16th century feel. Moving towards bolder type in later pages more times new roman more futuristic easier to read less cursive. An automated feel on the final future page with blocked text using divs. 
 
 Selected from google fonts- Jomhuria and Akaya Telivigala due to the bold yet cursive printed feel of Jomhuria which has an imprinted in ink from  a printing stamp kind of feel to do a heading and Akaya Telivigala for its replication of handwriting. Ideally I would have used a handwriting tool using a stylus to copy my own handwriting copying the folio of Shakespeare for the font but I am unsure if such a software is yet available. 
+
+Font Size
+Header In bold like a newspaper headline. Easy to see dominates the page. 
+Main body text Medium to Large for those who have a visual impairment may still enjoy the site ease of readability is fundamental especially on the cursive script page. 
+
+Images 
+
+Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background.
 
 
 # deployment
