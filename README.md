@@ -10,6 +10,7 @@ Four pages:-
 -	A main page
 -	Three linked pages entitled past present future 
 Main Page (Landing Page)
+
 Wireframe
 
 Design Choices
@@ -30,9 +31,9 @@ Font colour
 
 Font type 
 
-Using scrolling cursive type to replicate a handwritten style of script for that 16th century feel. Moving towards bolder type in later pages more times new roman more futuristic easier to read less cursive. An automated feel. 
+Using scrolling cursive type to replicate a handwritten style of script for that 16th century feel. Moving towards bolder type in later pages more times new roman more futuristic easier to read less cursive. An automated feel on the final future page with blocked text using divs. 
 
-
+Selected from google fonts- Jomhuria and Akaya Telivigala due to the bold yet cursive printed feel of Jomhuria which has an imprinted in ink from  a printing stamp kind of feel to do a heading and Akaya Telivigala for its replication of handwriting. Ideally I would have used a handwriting tool using a stylus to copy my own handwriting copying the folio of Shakespeare for the font but I am unsure if such a software is yet available. 
 
 
 # deployment
