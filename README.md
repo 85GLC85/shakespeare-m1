@@ -84,3 +84,4 @@ Table horizontal as a timeline rather than vertical
 Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
 Images spanning the full page 
 Video not loading
+Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
