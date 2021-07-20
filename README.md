@@ -58,7 +58,15 @@ Main body text Medium to Large for those who have a visual impairment may still 
 
 Images 
 
-Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background.
+Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background page. 
+
+Shakespeare Portrait Buttons linking to following indexed pages in supplement to the navigation bar
+
+Adding some visual interest to the page, a different take on a navigation bar, not everyone was literate in the time of Shakespeare more visual images used than text 
+
+Shakespeare portrait thumb customised scroll bar 
+
+For visually impaired users of the website a portrait is easier to see than a grey arrow. 
 
 
 # deployment
@@ -68,3 +76,11 @@ Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placi
 ![deployment step2](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step2.png)
 3.o to the github pages for repository 
 ![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
+
+Bugs
+
+Images not displaying on webpage
+Table horizontal as a timeline rather than vertical 
+Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
+Images spanning the full page 
+Video not loading
