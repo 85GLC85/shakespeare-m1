@@ -48,6 +48,14 @@ h3{
     font-family: 'Akaya Telivigala', cursive;
     font-size: 45px;
     color: #383b3e;
+    ]
+
+navbar {
+        text-align:center
+        font-family:"Akaya Telivigala", cursive;
+        font-size: 30px;
+        color: #383b3e;
+    }
 
 }
 
@@ -60,9 +68,9 @@ body {
 
 #shakespearehouse
 {
-img-align:center-left;
-height=800px;
-width=100%
+text-align:center-left;
+height=400px;
+width=50%
 
 }
 
@@ -95,9 +103,9 @@ a:hover {
 
 #annehathawayhome 
 {
-img-align:center-right;
-height:800px;
-width:100%;
+text-align:center-right;
+height:300px;
+width:50%;
 }
 
 #randj {
