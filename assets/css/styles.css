@@ -52,7 +52,10 @@ h3{
 }
 
 body {
+    width: 1200px;
+    padding: 10px;
     background-color:#e2dcba;
+
 }
 
 #shakespearehouse
