@@ -50,7 +50,7 @@ h3{
     color: #383b3e;
     ]
 
-navbar {
+#navbar {
         text-align:center
         font-family:"Akaya Telivigala", cursive;
         font-size: 30px;
@@ -70,7 +70,7 @@ body {
 {
 text-align:center-left;
 height=400px;
-width=50%
+width=10%;
 
 }
 
@@ -104,8 +104,8 @@ a:hover {
 #annehathawayhome 
 {
 text-align:center-right;
-height:300px;
-width:50%;
+height:100px;
+width:20%;
 }
 
 #randj {
@@ -118,4 +118,11 @@ width:50%;
   margin-left: auto;
   margin-right: auto;
   width:50%;
+}
+
+.backgroundhimg {
+
+    height:auto;
+    width:auto;
+    background: url('.../workspace/shakespeare-m1/assets/images/readme/globe.jpg') no-repeat center center ;
 }
