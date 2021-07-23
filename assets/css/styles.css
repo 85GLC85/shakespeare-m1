@@ -123,6 +123,6 @@ width:20%;
 .backgroundhimg {
 
     height:auto;
-    width:auto;
+    width:100%;
     background: url('.../workspace/shakespeare-m1/assets/images/readme/globe.jpg') no-repeat center center ;
 }
