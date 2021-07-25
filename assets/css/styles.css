@@ -109,7 +109,7 @@ width:75%;
 }
 
 #randj {
-: center;
+text-align: center;
 
 }
 
@@ -126,3 +126,4 @@ width:75%;
     width:100%;
     background: url('.../workspace/shakespeare-m1/assets/images/readme/globe.jpg') no-repeat center center ;
 }
+

@@ -6,12 +6,14 @@ Shakespeare: We are such stuff, as dreams are made on…
 This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
 
 Features
-Four pages:-
+Three pages originally planned four:-
 -	A main page
--	Three linked pages entitled past present future 
+-	Three linked pages entitled Home past present
 Main Page (Landing Page)
 
 Wireframe
+
+
 
 Design Choices
 
@@ -62,7 +64,7 @@ Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placi
 
 Shakespeare Portrait Buttons linking to following indexed pages in supplement to the navigation bar
 
-Adding some visual interest to the page, a different take on a navigation bar, not everyone was literate in the time of Shakespeare more visual images used than text 
+Adding some visual interest to the page, a different take on a navigation bar, not everyone was literate in the time of Shakespeare more visual images used than text so in line with this using images so there is something for everyone in the content. 
 
 Shakespeare portrait thumb customised scroll bar 
 
@@ -79,9 +81,50 @@ For visually impaired users of the website a portrait is easier to see than a gr
 
 Bugs
 
-Images not displaying on webpage
-Table horizontal as a timeline rather than vertical 
-Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
-Images spanning the full page 
-Video not loading
+Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
+ Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
+Images spanning the full page altered CSS 
+Video not loading- utilised a youtube link with help from student support at Code Institute.
 Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
+
+Features
+
+Header
+- An image of the modern globe theatre in London by the River Thames where Shakespeare's work is currently showcased. I used this image as Shakespeare with so little known about the enigmatic character he is, he is defined by what proceeds him - his plays and sonnets. What better way to introduce the page than an outline of Sonnet 18 it is his performance which bring life to work.
+
+Footer
+Copyright and social media information 
+- straightforward link to Instagram mainpage
+
+Index-Main- Page content
+
+Navigation bar
+
+a link to the main page the two following pages of past and present
+
+- Introduction: a short paragraph placing Shakespeare in his context denoting his date of birth and his occupation
+
+Main body text: A brief outline of the themes explored in Shakespeare's plays. Two phototgraphs of Shakespeare's homes. 
+
+Quotes Section
+
+Some very short quote excerpted from Romeo and Juliet one of Shakespeare's most famous plays and the play which ties all three pages together.
+
+A quote from the play As You Like It linking to the introductory image header of the Globe theatre linking up the content of the page.
+
+Links section 
+
+A section outlining other sources of information such as The Shakespeare Birthplace Trust hyperlinked.
+
+Newsletter Section
+
+a newsletter form to complete
+
+Contact Us
+
+A fictional contact us section
+
+Social Media Footer
+
+As aforementioned linking to instagram.#
+
