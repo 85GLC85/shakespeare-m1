@@ -91,3 +91,18 @@ Images of a large size with slow download speed on slower internet connection re
 Images spanning the full page 
 Video not loading
 Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
+
+<strong> Testing </strong>
+
+<strong>Validation Testing</strong>
+
+Ran through the W3 HTML tester and the below bugs were located in the code - code that was not written by myself.
+
+WS3 CSS Checker
+Located 34 errors in code, mostly from the code not written by myself. 
+
+Ran through CSS tester and the below result issued.
+
+<strong>Cross Browser and Device Testing </strong>
+
+
