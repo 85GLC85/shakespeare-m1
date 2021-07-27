@@ -117,6 +117,8 @@ Device                         Browser       Screen Width
  Encyclopedia Britannica Shakespeare Play Timeline
  HTML and CSS design and build websites by Jon Duckett
  WS3 Schools Button Page 
+ Radio Times Article 13 Films Influenced by Shakespeare
+ RSC - Life and Times of Shakespeare
  Acknowledgements
  Code Institute Tutors, Malia, 
  
