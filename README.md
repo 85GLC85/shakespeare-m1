@@ -106,5 +106,5 @@ Ran through CSS tester and the below result issued.
 <strong>Cross Browser and Device Testing </strong>
 
 Device                         Browser       Screen Width
-Samsung Galaxy Note 20 5G      Chrome         
-Asus Zenbook                   Chrome
+<br>Samsung Galaxy Note 20 5G      Chrome    </br>     
+<br>Asus Zenbook                   Chrome    </br>
