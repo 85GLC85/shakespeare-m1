@@ -1,32 +1,38 @@
 READ.ME 
 Milestone Project 1: Shakespeare
 
-Introduction
+<strong>Introduction<strong>
 Shakespeare: We are such stuff, as dreams are made on…
 This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
 
-Features
+ <strong>Features</strong>
 Four pages:-
 -	A main page
 -	Three linked pages entitled past present future 
 Main Page (Landing Page)
 
-Wireframe
+ <strong>Wireframe</strong>
 
-Design Choices
+ https://www.flickr.com/photos/193335561@N03/51338989160/
+ 
+ https://www.flickr.com/photos/193335561@N03/51337983586/
+ 
+ https://www.flickr.com/photos/193335561@N03/51338201773
+ 
+ <strong>Design Choices</strong>
 
-Target Audience
+ <strong>Target Audience</strong>
 
 Those who have never encountered Shakespeare before
 Those who have a fixed idea about Shakespeare and works as historical and not reinterpreted in the modern day
 Those who have a brief prior introduction to Shakespeare and will recognise the most oft-repeated quotes
 Age range demographic post further Education up to retirement
 
-Purpose 
+ <strong>Purpose </strong>
 
 To educate people about Shakespeare and how his works are still relevant in the modern era, to place plays in historical context, to give a brief overview of literary theory. To provide a brief introduction to his works.  
 
-Color 
+ <strong>Color </strong>
 
 Background Mainpage Colour Choice Hex code #e2dcba 
 
@@ -56,7 +62,7 @@ Font Size
 Header In bold like a newspaper headline. Easy to see dominates the page. 
 Main body text Medium to Large for those who have a visual impairment may still enjoy the site ease of readability is fundamental especially on the cursive script page. 
 
-Images 
+ <strong>Images </strong>
 
 Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background page. 
 
@@ -77,7 +83,7 @@ For visually impaired users of the website a portrait is easier to see than a gr
 3.o to the github pages for repository 
 ![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
 
-Bugs
+ <strong>Bugs</strong>
 
 Images not displaying on webpage
 Table horizontal as a timeline rather than vertical 
