@@ -115,6 +115,8 @@ Device                         Browser       Screen Width
  Youtube
  Googlefonts
  Encyclopedia Britannica Shakespeare Play Timeline
+ HTML and CSS design and build websites by Jon Duckett
+ WS3 Schools Button Page 
  Acknowledgements
  Code Institute Tutors, Malia, 
  
