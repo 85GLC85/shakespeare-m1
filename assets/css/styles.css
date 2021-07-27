@@ -151,3 +151,100 @@ a:hover {
 .col {
     flex: 1;
 }
+
+/* footer */
+footer{
+    height: 100%;
+    background-color: rgba(0, 0, 0, .7);
+    border-top:1px solid #ffcc99;
+    position: relative;
+    top: 100px;
+ }
+  
+ /*social links */
+ .social-networks{
+    text-align: center;
+ }
+  
+ .social-networks > li{
+    display: inline;
+ }
+  
+ .social-networks i{
+    font-size: 150%;
+    margin: 5px;
+    padding: 15px 20px 10px 20px;
+    color: #ffcc99;
+ }
+ .social-networks a:hover {
+    background-color: inherit;
+ }
+ /* make icons big and rotate if hovered */
+ .social-networks a:hover i {
+    transform: rotate(-10deg) scale(1.5);
+    color: #f78310;
+ }
+  
+ /*form*/
+ form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top:15px;
+ }
+ #footer-flabel{
+    color: #fff;
+    margin: 0 5px 0 10px;
+ }
+  
+ input[type=submit] {
+    background-color:#ffcc99;
+    border-radius:5px;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    font-size: 18px;
+    font-weight:bold;
+    margin-bottom:5px;
+    margin-right: 5px;
+    text-decoration:none;
+    width: 140px;
+    box-sizing: border-box;
+    padding: 0 10px;
+    height: 44px;
+    margin: 5px 10px 5px 2px;
+ }
+  
+ input[type=submit]:hover {
+    background-color:#f78310;
+    color: white;
+ }
+  
+ input[type=email]{
+    color: black;
+    height: 40px;
+    padding: 0 10px;
+    margin: 0 auto;
+    background-color:white;
+    display: inline-block;
+    margin: 5px 10px 5px 2px;
+    width: 230px;
+    border-radius:5px;
+ }
+ /* back to top link */
+ .back-to-top{
+    text-align: center;
+    text-decoration: none;
+    color: #ffcc99;
+    display: block;
+    padding-bottom: 30px;
+    margin-top: 30px;
+ }
+  
+ a.back-to-top:hover{
+  
+    background-color: rgb(67 66 55);
+    color:#f78310;
+ }
+ 
