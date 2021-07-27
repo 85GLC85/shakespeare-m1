@@ -2,6 +2,7 @@
 
 # Introduction
 
+<<<<<<< HEAD
 Shakespeare: We are such stuff, as dreams are made on…
 This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
 
@@ -70,6 +71,28 @@ As aforementioned linking to instagram.#
  
  <strong>Design Choices</strong>
 
+=======
+<strong>Introduction</strong>
+Shakespeare: We are such stuff, as dreams are made on…
+This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
+
+ <strong>Features</strong>
+Four pages:-
+-	A main page
+-	Three linked pages entitled past present future 
+Main Page (Landing Page)
+
+ <strong>Wireframe</strong>
+
+ https://www.flickr.com/photos/193335561@N03/51338989160/
+ 
+ https://www.flickr.com/photos/193335561@N03/51337983586/
+ 
+ https://www.flickr.com/photos/193335561@N03/51338201773
+ 
+ <strong>Design Choices</strong>
+
+>>>>>>> fc9521b438ac423a46394512e39babdfed0d3bf3
  <strong>Target Audience</strong>
 
 Those who have never encountered Shakespeare before
@@ -133,6 +156,7 @@ For visually impaired users of the website a portrait is easier to see than a gr
 ![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
 
  <strong>Bugs</strong>
+<<<<<<< HEAD
 
 Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
  Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
@@ -155,6 +179,31 @@ Device                         Browser       Screen Width
 <br>Samsung Galaxy Note 20 5G      Chrome    </br>     
 <br>Asus Zenbook                   Chrome    </br>
 
+=======
+
+Images not displaying on webpage
+Table horizontal as a timeline rather than vertical 
+Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
+Images spanning the full page 
+Video not loading
+Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
+
+<strong> Testing </strong>
+
+<strong>Validation Testing</strong>
+
+Ran through the W3 HTML tester and seven bugs were located in the code - code that was not written by myself.
+
+WS3 CSS Checker
+Located 34 errors in code, mostly from the code not written by myself. 
+
+<strong>Cross Browser and Device Testing </strong>
+
+Device                         Browser       Screen Width
+<br>Samsung Galaxy Note 20 5G      Chrome    </br>     
+<br>Asus Zenbook                   Chrome    </br>
+
+>>>>>>> fc9521b438ac423a46394512e39babdfed0d3bf3
  <strong> Accessibility Measures </strong>
  <strong>Credits</strong>
  Content
@@ -168,4 +217,9 @@ Device                         Browser       Screen Width
  Radio Times Article 13 Films Influenced by Shakespeare
  RSC - Life and Times of Shakespeare
  Acknowledgements
+<<<<<<< HEAD
  Code Institute Tutors, Malia, 
+=======
+ Code Institute Tutors, Malia, 
+ 
+>>>>>>> fc9521b438ac423a46394512e39babdfed0d3bf3
