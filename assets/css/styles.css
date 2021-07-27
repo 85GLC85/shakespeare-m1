@@ -1,4 +1,5 @@
-h1 {font-family:Jomhuria; cursive;
+h1 {
+    font-family: Jomhuria, cursive;
     font-size: 80px;
     color: #383b3e
 }
@@ -10,13 +11,13 @@ p {
 }
 
 h2 {
-    text-align:center;
+    text-align: center;
     font-family: 'Akaya Telivigala', cursive;
     font-size: 50px;
     color: #383b3e;
 }
 
-h3{
+h3 {
     font-family: 'Jomhuria', cursive;
     font-size: 50px;
     color: #383b3e;
@@ -48,41 +49,40 @@ h3{
     font-family: 'Akaya Telivigala', cursive;
     font-size: 45px;
     color: #383b3e;
-    ]
+}
 
 #navbar {
-        text-align:center
-        font-family:"Akaya Telivigala", cursive;
-        font-size: 30px;
-        color: #383b3e;
-    }
-
+    text-align: center;
+    font-family: "Akaya Telivigala", cursive;
+    font-size: 30px;
+    color: #383b3e;
 }
+
+
 
 body {
     width: 1200px;
     padding: 20px;
-    background-color:#e2dcba;
+    background-color: #e2dcba;
 
 }
 
-#shakespearehouse
-{
-text-align:center-left;
-height=400px;
-width=10%;
+#shakespearehouse {
+    text-align:left;
+    height: 400px;
+    width: 100%;
 
 }
 
 .mydiv1 {
     text-align: center;
-    
+
 }
 
 
 .mydiv2 {
- border: 1px; 
- text-align: center;  
+    border: 1px;
+    text-align: center;
 }
 
 a:hover {
@@ -91,39 +91,35 @@ a:hover {
 
 .mydiv1a {
     font-size: 100px;
-    text-align:center;
+    text-align: center;
     margin: auto;
     width: 100%;
-    height:100px;
+    height: 100px;
     border: 1px solid black;
-    padding: 10px
-    
-    
+    padding: 10px;
 }
 
-#annehathawayhome 
-{
-text-align:center-right;
-height:400px;
-width:75%;
+#annehathawayhome {
+    text-align: right;
+    height: 400px;
+    width: 75%;
 }
 
 #randj {
-text-align: center;
+    text-align: center;
 
 }
 
 .past {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .backgroundhimg {
 
-    height:auto;
-    width:100%;
-    background: url('.../workspace/shakespeare-m1/assets/images/readme/globe.jpg') no-repeat center center ;
+    height: auto;
+    width: 100%;
+    background: url('../images/readme/globe.jpg') no-repeat center center;
 }
-

@@ -1,34 +1,87 @@
-READ.ME 
-Milestone Project 1: Shakespeare
+# Milestone Project 1: Shakespeare
 
-Introduction
+# Introduction
+
 Shakespeare: We are such stuff, as dreams are made on…
 This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
 
-Features
-Three pages originally planned four:-
--	A main page
--	Three linked pages entitled Home past present
-Main Page (Landing Page)
+# Features
 
-Wireframe
+## Implemented Features
 
+## Header
 
+- An image of the modern globe theatre in London by the River Thames where Shakespeare's work is currently showcased. I used this image as Shakespeare with so little known about the enigmatic character he is, he is defined by what proceeds him - his plays and sonnets. What better way to introduce the page than an outline of Sonnet 18 it is his performance which bring life to work.
 
-Design Choices
+## Navigation
+- Allow user to get to home page, past and present pages 
+##  Footer
+- Allow user to have social media buttons to reach social media sites
 
-Target Audience
+# Main Page 
+- this page introduces the user to my website 
+- Shakespeare portrait buttons also navigate users to other pages. 
+- has navigation to get to other pages 
+- has footer to allow user to find social media content
+
+## Past Page
+
+- Introduction: a short paragraph placing Shakespeare in his context denoting his date of birth and his occupation
+
+Main body text: A brief outline of the themes explored in Shakespeare's plays. Two phototgraphs of Shakespeare's homes. 
+
+Quotes Section
+
+Some very short quote excerpted from Romeo and Juliet one of Shakespeare's most famous plays and the play which ties all three pages together.
+
+A quote from the play As You Like It linking to the introductory image header of the Globe theatre linking up the content of the page.
+
+Links section 
+
+A section outlining other sources of information such as The Shakespeare Birthplace Trust hyperlinked.
+
+Newsletter Section
+
+a newsletter form to complete
+
+Contact Us
+
+A fictional contact us section
+
+Social Media Footer
+
+As aforementioned linking to instagram.#
+
+- has navigation to get to other pages 
+- has footer to allow user to find social media content
+
+## Present Page
+
+- has navigation to get to other pages 
+- has footer to allow user to find social media content
+
+ # Wireframe 
+
+ https://www.flickr.com/photos/193335561@N03/51338989160/
+ 
+ https://www.flickr.com/photos/193335561@N03/51337983586/
+ 
+ https://www.flickr.com/photos/193335561@N03/51338201773
+ 
+ <strong>Design Choices</strong>
+
+ <strong>Target Audience</strong>
 
 Those who have never encountered Shakespeare before
 Those who have a fixed idea about Shakespeare and works as historical and not reinterpreted in the modern day
 Those who have a brief prior introduction to Shakespeare and will recognise the most oft-repeated quotes
 Age range demographic post further Education up to retirement
 
-Purpose 
+ <strong>Purpose </strong>
 
 To educate people about Shakespeare and how his works are still relevant in the modern era, to place plays in historical context, to give a brief overview of literary theory. To provide a brief introduction to his works.  
 
-Color 
+ <strong>Color </strong>
 
 Background Mainpage Colour Choice Hex code #e2dcba 
 
@@ -58,7 +111,7 @@ Font Size
 Header In bold like a newspaper headline. Easy to see dominates the page. 
 Main body text Medium to Large for those who have a visual impairment may still enjoy the site ease of readability is fundamental especially on the cursive script page. 
 
-Images 
+ <strong>Images </strong>
 
 Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background page. 
 
@@ -79,7 +132,7 @@ For visually impaired users of the website a portrait is easier to see than a gr
 3.o to the github pages for repository 
 ![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
 
-Bugs
+ <strong>Bugs</strong>
 
 Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
  Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
@@ -87,44 +140,32 @@ Images spanning the full page altered CSS
 Video not loading- utilised a youtube link with help from student support at Code Institute.
 Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
 
-Features
+<strong> Testing </strong>
 
-Header
-- An image of the modern globe theatre in London by the River Thames where Shakespeare's work is currently showcased. I used this image as Shakespeare with so little known about the enigmatic character he is, he is defined by what proceeds him - his plays and sonnets. What better way to introduce the page than an outline of Sonnet 18 it is his performance which bring life to work.
+<strong>Validation Testing</strong>
 
-Footer
-Copyright and social media information 
-- straightforward link to Instagram mainpage
+Ran through the W3 HTML tester and seven bugs were located in the code - code that was not written by myself.
 
-Index-Main- Page content
+WS3 CSS Checker
+Located 34 errors in code, mostly from the code not written by myself. 
 
-Navigation bar
+<strong>Cross Browser and Device Testing </strong>
 
-a link to the main page the two following pages of past and present
+Device                         Browser       Screen Width
+<br>Samsung Galaxy Note 20 5G      Chrome    </br>     
+<br>Asus Zenbook                   Chrome    </br>
 
-- Introduction: a short paragraph placing Shakespeare in his context denoting his date of birth and his occupation
-
-Main body text: A brief outline of the themes explored in Shakespeare's plays. Two phototgraphs of Shakespeare's homes. 
-
-Quotes Section
-
-Some very short quote excerpted from Romeo and Juliet one of Shakespeare's most famous plays and the play which ties all three pages together.
-
-A quote from the play As You Like It linking to the introductory image header of the Globe theatre linking up the content of the page.
-
-Links section 
-
-A section outlining other sources of information such as The Shakespeare Birthplace Trust hyperlinked.
-
-Newsletter Section
-
-a newsletter form to complete
-
-Contact Us
-
-A fictional contact us section
-
-Social Media Footer
-
-As aforementioned linking to instagram.#
-
+ <strong> Accessibility Measures </strong>
+ <strong>Credits</strong>
+ Content
+ Media
+ Shutterstock
+ Youtube
+ Googlefonts
+ Encyclopedia Britannica Shakespeare Play Timeline
+ HTML and CSS design and build websites by Jon Duckett
+ WS3 Schools Button Page 
+ Radio Times Article 13 Films Influenced by Shakespeare
+ RSC - Life and Times of Shakespeare
+ Acknowledgements
+ Code Institute Tutors, Malia, 
