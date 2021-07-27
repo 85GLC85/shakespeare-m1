@@ -252,8 +252,8 @@ a.back-to-top:hover {
     background-color: rgb(67 66 55);
     color: #f78310;
 }
+@media (max-width: 450px) {
 
-@media (max-width: 400px) {
     .flex-grid {
         display: block;
     }
