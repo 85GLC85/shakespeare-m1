@@ -111,5 +111,10 @@ Device                         Browser       Screen Width
  <strong>Credits</strong>
  Content
  Media
+ Shutterstock
+ Youtube
+ Googlefonts
+ Encyclopedia Britannica Shakespeare Play Timeline
  Acknowledgements
+ Code Institute Tutors, Malia, 
  
