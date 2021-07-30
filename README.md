@@ -4,7 +4,7 @@
 
 Shakespeare: We are such stuff, as dreams are made on…
 This project delivers a brief synoptic overview of the playwright and poet William Shakespeare. It’s intended audience is those whom are without any knowledge of Shakespeare, and the website will equip the generalist reader with the tools to enjoy the history of his works in the modern age. 
-
+[Deployed Site](https://85glc85.github.io/shakespeare-m1/)
 # Features
 
 ## Implemented Features
@@ -18,7 +18,7 @@ This project delivers a brief synoptic overview of the playwright and poet Willi
 ##  Footer
 - Allow user to have social media buttons to reach social media sites
 
-# Main Page 
+## Main Page 
 - this page introduces the user to my website 
 - Shakespeare portrait buttons also navigate users to other pages. 
 - has navigation to get to other pages 
@@ -60,6 +60,10 @@ As aforementioned linking to instagram.#
 - has navigation to get to other pages 
 - has footer to allow user to find social media content
 
+## 404
+
+In case user navigates to a page outside of the ones I have developed they will have a similar look and feel of a page. 
+
  # Wireframe 
 
  ![wireframe one main page](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/wireframe1.jpg)
@@ -70,20 +74,20 @@ As aforementioned linking to instagram.#
  
  https://www.flickr.com/photos/193335561@N03/51338201773
  
- <strong>Design Choices</strong>
+ **Design Choices**
 
- <strong>Target Audience</strong>
+ **Target Audience**
 
 Those who have never encountered Shakespeare before
 Those who have a fixed idea about Shakespeare and works as historical and not reinterpreted in the modern day
 Those who have a brief prior introduction to Shakespeare and will recognise the most oft-repeated quotes
 Age range demographic post further Education up to retirement
 
- <strong>Purpose </strong>
+**Purpose**
 
 To educate people about Shakespeare and how his works are still relevant in the modern era, to place plays in historical context, to give a brief overview of literary theory. To provide a brief introduction to his works.  
 
- <strong>Color </strong>
+ **Color**
 
 Background Mainpage Colour Choice Hex code #e2dcba 
 
@@ -109,11 +113,11 @@ Using scrolling cursive type to replicate a handwritten style of script for that
 
 Selected from google fonts- Jomhuria and Akaya Telivigala due to the bold yet cursive printed feel of Jomhuria which has an imprinted in ink from  a printing stamp kind of feel to do a heading and Akaya Telivigala for its replication of handwriting. Ideally I would have used a handwriting tool using a stylus to copy my own handwriting copying the folio of Shakespeare for the font but I am unsure if such a software is yet available. 
 
-Font Size
+**Font Size**
 Header In bold like a newspaper headline. Easy to see dominates the page. 
 Main body text Medium to Large for those who have a visual impairment may still enjoy the site ease of readability is fundamental especially on the cursive script page. 
 
- <strong>Images </strong>
+ **Images**
 
 Shakespeare's boyhood home and Anne Hathaway's home on Mainpage index.html placing Shakespeare biographically in context through visual imagery which can be elaborated on in the biography Past section to add textual historical detail about the limited information on Shakespeare and his family. Furthermore the images are large width 100% to give colour and interest to an otherwise very light background page. 
 
@@ -126,7 +130,33 @@ Shakespeare portrait thumb customised scroll bar
 For visually impaired users of the website a portrait is easier to see than a grey arrow. 
 
 
-# deployment
+
+
+
+# Testing
+
+## Validation Testing
+
+- Ran through the W3 HTML tester and seven bugs were located in the code - code that was not written by myself.
+
+- WS3 CSS Checker
+Located 34 errors in code, mostly from the code not written by myself. 
+
+## Cross Browser and Device Testing
+
+- Samsung Galaxy Note 20 5G      Chrome        
+- Asus Zenbook                   Chrome    
+ ## Accessibility Measures 
+
+ 
+ ## Bugs
+- Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
+- Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
+- Images spanning the full page altered CSS 
+- Video not loading- utilised a youtube link with help from student support at Code Institute.
+- Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
+
+ # deployment
 1. go to the github pages for repository 
 ![deployment step1](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
 2.go to the github pages for repository 
@@ -134,42 +164,24 @@ For visually impaired users of the website a portrait is easier to see than a gr
 3.o to the github pages for repository 
 ![deployment step3](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/deployment-step1.png)
 
- <strong>Bugs</strong>
+ # Credits
 
-Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
- Images of a large size with slow download speed on slower internet connection rectified by using a file compression site to alter from MB to KB. 
-Images spanning the full page altered CSS 
-Video not loading- utilised a youtube link with help from student support at Code Institute.
-Deleted Future.html page as there was not enough available content and altered mainpage links accordingly.
+ ## Content
 
-<strong> Testing </strong>
+## Media
+- Shutterstock
+- Youtube
+- Googlefonts
+- Encyclopedia Britannica Shakespeare Play - Timeline
+- HTML and CSS design and build websites by Jon Duckett
+ - WS3 Schools Button Page 
+ - Radio Times Article 13 Films Influenced by Shakespeare
+ - RSC - Life and Times of Shakespeare
 
-<strong>Validation Testing</strong>
-
-Ran through the W3 HTML tester and seven bugs were located in the code - code that was not written by myself.
-
-WS3 CSS Checker
-Located 34 errors in code, mostly from the code not written by myself. 
-
-<strong>Cross Browser and Device Testing </strong>
-
-Device                         Browser       Screen Width
-<br>Samsung Galaxy Note 20 5G      Chrome    </br>     
-<br>Asus Zenbook                   Chrome    </br>
-
- <strong> Accessibility Measures </strong>
- <strong>Credits</strong>
- Content
- Media
- Shutterstock
- Youtube
- Googlefonts
- Encyclopedia Britannica Shakespeare Play Timeline
- HTML and CSS design and build websites by Jon Duckett
- WS3 Schools Button Page 
- Radio Times Article 13 Films Influenced by Shakespeare
- RSC - Life and Times of Shakespeare
  # Acknowledgements
- https://github.com/gabriel-alves-p/l-atelier-eden#navigation-bar 
+
+- [Gabe Alves navigation](https://github.com/gabriel-alves-pl-atelier-eden#navigation-bar)
  Used this HTML and CSS as a starting point for my footer. 
- Code Institute Tutors, Malia, 
+
+ - Code Institute Tutors, Malia, 
+ - [Colour palate for coloors](https://coolors.co/e2dcba-383b3e-ffcc99)
