@@ -1,6 +1,8 @@
 h1 {
     font-family: Jomhuria, cursive;
-    font-size: 80px;
+    line-height:normal;
+    float: center;
+    font-size: 250px;
     color: #383b3e
 }
 
@@ -76,7 +78,7 @@ body {
 
 .mydiv1 {
     text-align: center;
-
+   
 }
 
 
