@@ -62,6 +62,8 @@ As aforementioned linking to instagram.#
 
  # Wireframe 
 
+ ![wireframe one main page](https://github.com/85GLC85/shakespeare-m1/blob/main/assets/images/readme/wireframe1.jpg)
+
  https://www.flickr.com/photos/193335561@N03/51338989160/
  
  https://www.flickr.com/photos/193335561@N03/51337983586/
