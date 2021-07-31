@@ -137,10 +137,10 @@ For visually impaired users of the website a portrait is easier to see than a gr
 
 ## Validation Testing
 
-- Ran through the W3 HTML tester and seven bugs were located in the code - code that was not written by myself.
+- Ran through the W3 HTML tester and seven bugs were located in the CSS code 
 
 - WS3 CSS Checker
-Located 34 errors in code, mostly from the code not written by myself. 
+Located 34 errors in code using HTML validation tool. 
 
 ## Cross Browser and Device Testing
 
