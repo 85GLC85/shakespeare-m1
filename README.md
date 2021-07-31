@@ -59,6 +59,12 @@ As aforementioned linking to instagram.#
 
 - has navigation to get to other pages 
 - has footer to allow user to find social media content
+- photograph of Anne Hathaway and William Shakespeare immortalised in a metal statue. 
+- photograph of an ink print of William Shakespeare 
+- video of the 90s Romeo and Juliet by Baz Luhrmann trailer of the film
+- content focusing on Shakespeare's influence on film 
+- a tiimeline of Shakespeare's plays
+- a historical overview of Shakespeare to place him and his work contextually
 
 ## 404
 
