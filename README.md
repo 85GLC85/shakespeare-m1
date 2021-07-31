@@ -154,6 +154,11 @@ Located 34 errors in code using HTML validation tool.
 - Asus Zenbook                   Chrome    
  ## Accessibility Measures 
 
+**Lighthouse**
+https://www.flickr.com/photos/193335561@N03/51347741472/
+https://www.flickr.com/photos/193335561@N03/51347747397/
+https://www.flickr.com/photos/193335561@N03/51347747397/
+
  
  ## Bugs
 - Images not displaying on webpage acknowledge assistance from Code Institute student support in addressing this code issue and change in feature. 
