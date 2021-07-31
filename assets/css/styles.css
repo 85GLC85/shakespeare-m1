@@ -81,14 +81,72 @@ body {
    
 }
 
+table {
+
+    display: block;
+    
+    }
+    
+    tbody {
+    
+    display: block;
+    
+    overflow: scroll;
+    
+    }
+
+.table-wrap {
+    overflow: auto;
+    height: 100%;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid;
+    padding: 10px;
+    background: whitesmoke;
+}
+/*scrollbar make Scrollbar visibile */
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    display: inherit;
+    width: 12px;
+    -webkit-overflow-scrolling: auto;
+}
+::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+::-webkit-scrollbar:horizontal {
+    height: 12px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+}
+
 
 .mydiv2 {
     border: 1px;
     text-align: center;
 }
 
-a:hover {
-    background-color: #F5F5F5;
+.div2 {
+border: 1px;
+border-color: #383b3e;
+scrollbar-arrow-color: #383b3e;
+
+}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+
+a.hover {
+    background-color: white;
 }
 
 .mydiv1a {
