@@ -185,3 +185,5 @@ Located 34 errors in code, mostly from the code not written by myself.
 
  - Code Institute Tutors, Malia, 
  - [Colour palate for coloors](https://coolors.co/e2dcba-383b3e-ffcc99)
+
+- [Embed a Youtube Video in HTML and make it responsive] (https://www.youtube.com/watch?v=9YffrCViTVk)

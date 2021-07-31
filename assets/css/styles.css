@@ -15,13 +15,13 @@ p {
 h2 {
     text-align: center;
     font-family: 'Akaya Telivigala', cursive;
-    font-size: 50px;
+    font-size: 20px;
     color: #383b3e;
 }
 
 h3 {
     font-family: 'Jomhuria', cursive;
-    font-size: 50px;
+    font-size: 20px;
     color: #383b3e;
 }
 
@@ -144,12 +144,9 @@ div.scrollmenu {
   div.scrollmenu a {
     display: inline-block;
     color: white;
+  }
 
-a.hover {
-    background-color: white;
-}
-
-.mydiv1a {
+   .mydiv1a {
     font-size: 100px;
     text-align: center;
     margin: auto;
@@ -391,4 +388,20 @@ nav {
     form {
         flex-direction: column;
     }
+}
+
+CSS code:
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
