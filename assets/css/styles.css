@@ -389,6 +389,8 @@ nav {
         flex-direction: column;
     }
 }
+/* !code from youtube for responsive video design> */
+
 .iframe-container{
   position: relative;
   width: 100%;
